@@ -1,17 +1,8 @@
 
 <p align="center">
-  <img align="center" width="700" src="https://github.com/Capstone-Experimental/.github-private/assets/103941947/937a739d-fb3c-4fa7-bb62-8b061199c5c6" />
+  <img align="center" width="700" src="https://drive.google.com/file/d/1Vq7sy1ikJXMr6IfKXqOoIlLUgcb5aN4w/view?usp=sharing" />
 </p>
-<p align="justify">knowZe is a groundbreaking project developed by Team CH2-PS026, focused on addressing the educational needs and preferences of Generation Z. The team identified the digital literacy and demand for practical solutions among the younger generation, leading to the creation of a personalized online learning platform. The platform, knowZe, aims to provide comprehensive solutions through interactive courses based on user-provided keywords.</p>
+<p align="justify">
+Serenity, a revolutionary initiative dedicated to supporting new parents, recognizes that up to 4 out of 5 parents (approximately 80%) experience baby blues. This condition can affect new parents from diverse backgrounds—race, age, income level, culture, or educational attainment. The emotional journey post-childbirth, often referred to as 'Baby Blues Syndrome,' is not to be taken lightly. The heightened sensitivity during this phase can serve as a gateway to more serious issues like Postpartum Depression or Postpartum Distress Syndrome. It's not just about momentary sadness; these are symptoms that can evolve into disruptive anxiety and persistent emotional distress, impacting the overall well-being of parents both emotionally and physically. Serenity steps in to tackle these challenges with innovative solutions: nurturing quality sleep, maintaining health, and addressing the root causes of depression. We understand this emotional journey and are committed to assisting parents in navigating their roles with balance and tranquility.</p>
 
-<h2 align="center">Bangkit 2023 Capstone Team: CH2-PS026</h2>
 
-#### Members
-| Name                  | ID            | Path               | Contact                                              |
-| --------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
-| Azhryl Akbar Assagaf    | M279BSY1338    | Machine Learning |     [Github](https://github.com/azhryl)     |
-| Muhammad Zidane Arkan  | M315BSY0300    | Machine Learning   |      [Github](https://github.com/zidane-arkan)       |
-| Danang Rahmat Bachtiar   | C279BSY3976    | Cloud Computing   | [Github](https://github.com/r-G7D)      |
-| Ghulam Muzafar     | C279BSY3859    | Cloud Computing   | [Github](https://github.com/ghulammuzz) |
-| Fitria Widyani | A152BSX2010    | Mobile Development    |   [Github](https://github.com/fitriadyaa)     |
-| Willy | A204BSY1948    | Mobile Development    |     [Github](https://github.com/Will-Lim1)     |   
