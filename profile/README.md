@@ -10,16 +10,11 @@ Serenity, where innovation meets parenthood! 🚀 We understand the challenges n
 
 ## Meet Our Dynamic Team 👥
 
-- **Muhammad Zidane Arkan** 🌟
-  - *Role:* Hustler
-
-- **Muhammad Rizki Ramadhan** 🚀
-  - *Role:* Hacker
-
-- **Kevin Putrayudha Naserwan** 🌈
-  - *Role:* Hipster
-
-- **Kaka Inochi** 🌿
-  - *Role:* Hipster
+| Name                       | Role          |
+| -------------------------- | ------------- |
+| Muhammad Zidane Arkan      | Hustler       |
+| Muhammad Rizki Ramadhan    | Hacker        |
+| Kevin Putrayudha Naserwan  | Hipster       |
+| Kaka Inochi                | Hipster       |
 
 Feel the Serenity vibe as we redefine parenthood together! 🌈✨
